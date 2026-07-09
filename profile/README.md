@@ -2,7 +2,8 @@
   <img src="https://raw.githubusercontent.com/marcovillar-consultoria/.github/main/profile/assets/banner.png" alt="Marco Villar — Consultoria e Serviços" width="640" />
 
   <br />
-
+  <br />
+  
   Engenharia de software e orquestração de agentes de IA — sob um processo
   com rastreabilidade real, não só a promessa de "usamos IA".
 
