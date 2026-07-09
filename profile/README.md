@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="profile/assets/banner.png" alt="Marco Villar — Consultoria e Serviços" width="640" />
+  <img src="https://raw.githubusercontent.com/marcovillar-consultoria/.github/main/profile/assets/banner.png" alt="Marco Villar — Consultoria e Serviços" width="640" />
 
   <br />
 
