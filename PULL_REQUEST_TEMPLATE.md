@@ -1,10 +1,10 @@
-## Summary
+## Resumo
 
-<!-- What does this PR change, and why? -->
+<!-- O que este PR muda, e por quê? -->
 
 ## Checklist
 
-- [ ] Scope matches an approved plan/issue (no undocumented architecture changes)
-- [ ] Tests updated/added where applicable
-- [ ] Docs updated where applicable (README, INDEX.md, ADRs)
-- [ ] No secrets, credentials, or environment-specific values committed
+- [ ] Escopo bate com um plano/issue aprovado (sem mudança de arquitetura não documentada)
+- [ ] Testes atualizados/adicionados, quando aplicável
+- [ ] Docs atualizados, quando aplicável (README, INDEX.md, ADRs)
+- [ ] Nenhum segredo, credencial ou valor específico de ambiente commitado

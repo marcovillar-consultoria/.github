@@ -1,22 +1,23 @@
-# Security Policy
+# Política de Segurança
 
-This file is the org-wide default for **marcovillar-consultoria**. Any
-repository without its own `SECURITY.md` inherits this policy.
+Este arquivo é o padrão org-wide para **marcovillar-consultoria**. Qualquer
+repositório sem seu próprio `SECURITY.md` herda esta política.
 
-## Reporting a vulnerability
+## Como reportar uma vulnerabilidade
 
-Please report suspected vulnerabilities privately — do not open a public
-issue.
+Reporte suspeitas de vulnerabilidade de forma privada — não abra uma issue
+pública.
 
-- Email: **marco@marcovillar.com**
-- Expect an initial response within 5 business days.
-- Include affected repository, a description of the issue, and
-  reproduction steps if available.
+- E-mail: **marco@marcovillar.com**
+- Resposta inicial esperada em até 5 dias úteis.
+- Inclua o repositório afetado, uma descrição do problema e passos de
+  reprodução, se disponíveis.
 
-## Scope note for forked repositories
+## Nota de escopo para repositórios forkados
 
-Repositories that are minimal forks of upstream projects (e.g.
-`openfathom-agent`, forked from
+Repositórios que são forks mínimos de projetos upstream (ex.
+`openfathom-agent`, fork de
 [`NousResearch/hermes-agent`](https://github.com/NousResearch/hermes-agent))
-only accept reports for the fork-specific changes maintained here.
-Vulnerabilities in unmodified upstream code should be reported upstream.
+aceitam reportes apenas para as mudanças específicas do fork mantidas aqui.
+Vulnerabilidades no código upstream não modificado devem ser reportadas
+diretamente no repositório de origem.
